@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DelegateForStar.qml</file>
+        <file>DialogForAdd.qml</file>
+        <file>DialogForEdit.qml</file>
+    </qresource>
+</RCC>
